@@ -1,5 +1,5 @@
 baseURL = 'https://Rex-7.github.io/'
-title = 'Rex's homepage'
+title = 'Rex'
 
 # multi-language support
 defaultContentLanguage = 'en'
@@ -21,7 +21,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
     title = 'Zero'
 
     [languages.en.params]
-      author = Ruisheng Zheng"
+      author = "Ruisheng Zheng"
       description = "Undergraduate Student in [Shandong University](https://sdu.com). Focusing on Federated Learning and Graph Learning."
       motto = "aaa."
     
