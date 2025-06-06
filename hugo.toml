@@ -22,7 +22,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
 
     [languages.en.params]
       author = "Ruisheng Zheng"
-      description = "Undergraduate Student in [Shandong University](https://sdu.com). Focusing on Federated Learning and Graph Learning."
+      description = "Undergraduate Student in [Shandong University](https://sdu.edu.cn). Focusing on Federated Learning and Graph Learning."
       motto = "aaa."
     
     [[languages.en.menu.main]]
@@ -60,7 +60,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
     title = '学术主页'
     
     [languages.zh.params]
-      author = "郑睿生"
+      author = "Ruisheng Zheng"
       description = "山东大学本科生，专注于联邦学习与图学习"
       motto = "aaa。"
     
